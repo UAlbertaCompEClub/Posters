@@ -5,6 +5,7 @@ Event posters are stored in this directory
 Photoshop Templates
 ===================
 lasertag.psd -- ECE Laser Tag
+
 mace.psd -- Meet A Computer Engineering
 
 Fonts
