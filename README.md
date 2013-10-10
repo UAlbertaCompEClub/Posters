@@ -12,5 +12,7 @@ Fonts
 Fonts were acquired from dafont.com
 
 appleberry -- used in mace.psd
+
 coolvetica -- used in lasertag.psd
+
 laser -- used in lasertag.psd
